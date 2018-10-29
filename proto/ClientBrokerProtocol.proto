@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 option java_package = "io.mid-player";
-option java_outer_classname = "MidPlayer";
+option java_outer_classname = "ClientBrokerProtocol";
 option java_multiple_files = true;
 
 message EventSubscription {
